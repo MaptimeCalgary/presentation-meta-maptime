@@ -4,16 +4,23 @@
 
 ### [Meta]
 
-Who, What, When, Where, Why, How... <!-- .element: class="fragment" data-fragment-index="1" -->
+---
+Anthony Lukach, [@anthonylukach](http://twitter.com/anthonylukach)
 
-_not in that order_ <!-- .element: class="fragment" data-fragment-index="2" -->
+Github: @alukach
+
+
+
+## Who, What, When, Where, Why, How...
+
+_not in that order_ <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
 
 ## What is Maptime?
 
-[`maptime.io`](maptime.io)
+[`maptime.io`](http://maptime.io)
 <iframe data-src="http://maptime.io/about/" width="100%" height="60%" />
 
 
