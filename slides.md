@@ -17,11 +17,6 @@ _not in that order_ <!-- .element: class="fragment" data-fragment-index="2" -->
 <iframe data-src="http://maptime.io/about/" width="100%" height="60%" />
 
 
-Maptime is about _learning_.
-
-DIY, on the cheap. <!-- .element: class="fragment" data-fragment-index="1" -->
-
-
 
 ## Why Maptime?
 
@@ -30,17 +25,15 @@ DIY, on the cheap. <!-- .element: class="fragment" data-fragment-index="1" -->
 - The landscape is kind of overwhelming...  <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
-# ...
-
-_TODO: A bunch of libraries_
+![](./assets/term-wordcloud.png)
 
 
 
 ## Topics
 
-- Webmapping (mostly) <!-- .element: class="fragment" data-fragment-index="1" -->
-- Straight GIS (?) <!-- .element: class="fragment" data-fragment-index="2" -->
-- General programming / technology skills (whatever's needed to get the job done) <!-- .element: class="fragment" data-fragment-index="3" -->
+- <!-- .element: class="fragment" data-fragment-index="1" --> Webmapping
+- <!-- .element: class="fragment" data-fragment-index="2" --> Traditional GIS
+- <!-- .element: class="fragment" data-fragment-index="3" --> General programming / technology skills _(whatever's needed to get the job done)_
 
 ... basically, whatever people want to learn <!-- .element: class="fragment" data-fragment-index="4" -->
 
@@ -58,16 +51,24 @@ _TODO: A bunch of libraries_
 <img width="48.5%" style="display: inline;" data-src="./assets/montreal-jobs.png" alt="montreal-jobs" />
 <img width="48.5%" style="display: inline;" data-src="./assets/victoria-jobs.png" alt="victoria-jobs" />
 
-I would assume that this would mean alot of geographers <!-- .element: class="fragment" data-fragment-index="1" -->
+I would assume that this would mean alot of geographers / cartographers <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ## Already a networking group
 
 ![go-geomatics](./assets/go-geomatics-logo.png)
 
-_(This isn't that)_ <!-- .element: class="fragment" data-fragment-index="1" -->
-_(Not that there's anything wrong with that)_ <!-- .element: class="fragment" data-fragment-index="2" -->
+<!-- .element: class="fragment" data-fragment-index="1" --> _(This isn't that)_
 
+<!-- .element: class="fragment" data-fragment-index="2" --> _(Not that there's anything wrong with that)_
+
+<!-- .element: class="fragment" data-fragment-index="3" --> Networking will happen, probably as announcements at beginnings of meetups and over beers after meetups
+
+
+
+Maptime is about _learning_.
+
+DIY, on the cheap. <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
