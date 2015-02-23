@@ -1,80 +1,123 @@
+![MaptimeLogo](http://stamen.com/files/maptime_logo-final.png)
+
 ## MaptimeCalgary
 
-### The presentation template
-This is the first slide.
+### [Meta]
 
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
+Who, What, When, Where, Why, How... <!-- .element: class="fragment" data-fragment-index="1" -->
 
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
-
-
-
-## Follow along
-These slides are created with Reveal.js + Markdown.
-
-Take a look at the [raw source for the slides](https://raw.githubusercontent.com/MaptimeCalgary/presentation-example/gh-pages/slides.md). The repo can be found [here](https://github.com/MaptimeCalgary/presentation-example).
-
-
-
-## This is a new slide
-Create these by placing 3 line-breaks in the markdown source.
-
-_From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
-
-_Try `DOWN`._ <!-- .element: class="fragment" data-fragment-index="1" -->
-
-
-## This is a vertical-slide
-You make these by placing 2 line-breaks within the source.
-
-Vertical-slides are good for drilling in to topics. Think of it as a _details_ slide. If you're short on time, you can skip past these slides by moving `RIGHT`.
-
-
-
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-
-_Cool background, right?_<!-- .element: class="fragment" data-fragment-index="1" -->
-```
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-```
+_not in that order_ <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
 
-## Hey, it even supports code!
+## What is Maptime?
 
-```
-var marker = L.marker([49, 5.49]).addTo(map);
-var polygon = L.polygon([
-  [51.509, -0.08],
-  [51.503, -0.06],
-  [51.51, -0.047]
-]).addTo(map);
-marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
-polygon.bindPopup("I am a polygon.");
-```
+[`maptime.io`](maptime.io)
+<iframe data-src="http://maptime.io/about/" width="100%" height="60%" />
+
+
+Maptime is about _learning_.
+
+DIY, on the cheap. <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
-## Want to see something really crazy?
+## Why Maptime?
 
-Press `S` to check out the 'Presentation Mode'.
-
-Note:
-The idea is that you put the other window on a shared screen, like a projector, and view this screen on your laptop. Btw, this note is only visible to the presenter.
-
+- <!-- .element: class="fragment" data-fragment-index="1" -->You don't learn _everything_ in school.
+- It's kind of difficult to learn things after school. <!-- .element: class="fragment" data-fragment-index="2" -->
+- The landscape is kind of overwhelming...  <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
-## That's about it
+# ...
 
-There are a bunch of cool things you can do with **Reveal.js** and **Markdown**.
+_TODO: A bunch of libraries_
 
-Check out Reveal.js' [example slides](http://lab.hakim.se/reveal-js/) for more quick examples of what you can do with Reveal.js.  Check out Reveal.js' [Readme](https://github.com/hakimel/reveal.js/blob/master/README.md) and its [wiki](https://github.com/hakimel/reveal.js/wiki) (especially the [Articles & Tutorials](https://github.com/hakimel/reveal.js/wiki/Articles-&-Tutorials) section) for greater detail about using Reveal.js.  
 
-Check out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick intro into using Markdown.
+
+## Topics
+
+- Webmapping (mostly) <!-- .element: class="fragment" data-fragment-index="1" -->
+- Straight GIS (?) <!-- .element: class="fragment" data-fragment-index="2" -->
+- General programming / technology skills (whatever's needed to get the job done) <!-- .element: class="fragment" data-fragment-index="3" -->
+
+... basically, whatever people want to learn <!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+
+## Why MaptimeCalgary?
+
+
+## Lots of jobs...
+
+<img width="48.5%" style="display: inline;" data-src="./assets/calgary-jobs.png" alt="calgary-jobs" />
+<img width="48.5%" style="display: inline;" data-src="./assets/toronto-jobs.png" alt="toronto-jobs" />
+<img width="48.5%" style="display: inline;" data-src="./assets/vancouver-jobs.png" alt="vancouver-jobs" />
+<img width="48.5%" style="display: inline;" data-src="./assets/edmonton-jobs.png" alt="edmonton-jobs" />
+<img width="48.5%" style="display: inline;" data-src="./assets/montreal-jobs.png" alt="montreal-jobs" />
+<img width="48.5%" style="display: inline;" data-src="./assets/victoria-jobs.png" alt="victoria-jobs" />
+
+I would assume that this would mean alot of geographers <!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+## Already a networking group
+
+![go-geomatics](./assets/go-geomatics-logo.png)
+
+_(This isn't that)_ <!-- .element: class="fragment" data-fragment-index="1" -->
+_(Not that there's anything wrong with that)_ <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+
+## What does MaptimeCalgary offer?
+
+- Presentations <!-- .element: class="fragment" data-fragment-index="1" -->
+  - Tutorials
+  - Show & Tell _("Check out this project I did...")_
+- Hack Nights / Office Hours <!-- .element: class="fragment" data-fragment-index="2" -->
+  - Work on projects together
+  - Get help
+- Information/Resource Sharing <!-- .element: class="fragment" data-fragment-index="3" -->
+  - _"Where do I get data X?"_
+  - _"Anyone know how to do Y?"_
+
+
+
+## Who is MaptimeCalgary?
+
+People who show up.
+
+
+## We are not experts
+
+Just people figuring stuff out.
+
+
+
+## How do you get involved?
+
+- <!-- .element: class="fragment" data-fragment-index="1" --> Presentation Topics: [Github Issue (Suggestions)](https://github.com/MaptimeCalgary/maptimecalgary.github.io/labels/presentation%20topic%20suggestion) or [Pull Request (Volunteering)](https://github.com/MaptimeCalgary/maptimecalgary.github.io/pulls)
+- <!-- .element: class="fragment" data-fragment-index="2" --> Website: [Github Issue](https://github.com/MaptimeCalgary/maptimecalgary.github.io/issues?q=is%3Aopen+label%3Awebsite+label%3Aenhancement) or [Pull Request](https://github.com/MaptimeCalgary/maptimecalgary.github.io/pulls)  
+- <!-- .element: class="fragment" data-fragment-index="3" --> Questions: [GoogleGroups](https://groups.google.com/forum/#!forum/maptimecalgary)  
+- <!-- .element: class="fragment" data-fragment-index="4" --> Chatter: Slack? IRC?  
+- <!-- .element: class="fragment" data-fragment-index="5" --> Tell Others: [Tweet](https://twitter.com/maptimecalgary)  
+-  <!-- .element: class="fragment" data-fragment-index="6" --> Bring Friends: [Meetup](www.meetup.com/MaptimeCalgary/)
+
+
+
+## Where and When?
+
+> I dunno, when's good for you?
+
+
+
+## Sponsors
+
+- Meetup Space
+- $ for food, drink
+
+
+
+# End
