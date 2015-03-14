@@ -1,4 +1,4 @@
-![MaptimeLogo](http://stamen.com/files/maptime_logo-final.png)
+<img alt="Maptime Logo" src="http://stamen.com/files/maptime_logo-final.png" style="height: 35%;"/>
 
 ## MaptimeCalgary
 
