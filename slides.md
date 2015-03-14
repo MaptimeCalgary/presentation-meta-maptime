@@ -73,7 +73,7 @@ I would assume that this would mean alot of geographers / cartographers <!-- .el
 
 
 
-Maptime is about _learning_.
+## Maptime is about _learning_.
 
 DIY, on the cheap. <!-- .element: class="fragment" data-fragment-index="1" -->
 
